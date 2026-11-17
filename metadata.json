@@ -1,0 +1,8 @@
+{
+  "name": "MergimGroup - Menaxhimi i Punës",
+  "description": "Sistemi zyrtar MergimGroup me Menaxhimin e Punës, Mergim Pro Llogaritësin dhe Studio-n AI Kuzhina Pro.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
